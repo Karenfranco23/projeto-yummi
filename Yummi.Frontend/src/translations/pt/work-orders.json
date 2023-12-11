@@ -1,0 +1,30 @@
+{
+  "list-orders": {
+    "title": "Pedidos",
+    "add-order": "Adicionar Pedido",
+    "search-for": "Buscar por nome, id",
+    "delete-confirmation": {
+      "title": "Excluir Pedido",
+      "description": "Tem certeza que deseja excluir o pedido?"
+    },
+    "table": {
+      "title": "Titulo",
+      "status": "Status",
+      "actions": "Ações",
+      "no-data": "Nenhum pedido encontrado"
+    }
+  },
+  "form": {
+    "create-title": "Novo Pedido",
+    "edit-title": "Editar Pedido",
+    "title": "Pedido",
+    "description": "Descrição",
+    "status": "Status"
+  },
+  "status": {
+    "completed": "Finalizado",
+    "in progress": "Em Produção",
+    "on hold": "Em Espera",
+    "opened": "Em Aberto"
+  }
+}

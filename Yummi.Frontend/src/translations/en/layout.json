@@ -1,0 +1,10 @@
+{
+  "navbar": {
+    "items": {
+      "assets": "Assets",
+      "users": "Users",
+      "workorders": "Work Orders"
+    }
+  },
+  "change-language": "Change language"
+}

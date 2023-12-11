@@ -1,0 +1,9 @@
+{
+  "title": "Novo Produto",
+  "edit-title": "Editar Produto",
+  "form": {
+    "model": "Categoria",
+    "name": "Nome",
+    "status": "Status"
+  }
+}

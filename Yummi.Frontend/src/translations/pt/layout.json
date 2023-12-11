@@ -1,0 +1,10 @@
+{
+  "navbar": {
+    "items": {
+      "assets": "Produtos",
+      "users": "Usuários",
+      "workorders": "Pedidos"
+    }
+  },
+  "change-language": "Alterar idioma"
+}

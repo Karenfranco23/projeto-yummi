@@ -1,0 +1,15 @@
+{
+  "title": "Produtos",
+  "add-asset": "Adicionar Produto",
+  "search-for": "Buscar por nome, id ou tag",
+  "delete-confirmation": {
+    "title": "Excluir Produto",
+    "description": "Tem certeza que deseja excluir o produto?"
+  },
+  "table": {
+    "name": "Nome",
+    "status": "Status",
+    "actions": "Ações",
+    "no-data": "Nenhum produto encontrado"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "not-found": {
+    "title": "Produto não encontrado",
+    "message": "O produto que você está procurando não existe ou foi removido.",
+    "action": "Voltar para a lista de produtos"
+  },
+  "details-card": {
+    "title": "Detalhes do Produto",
+    "category": "Categoria",
+    "product": "Produto",
+    "description": "Descrição",
+    "price": "Preço",
+    "status": "Status"
+  }
+}
